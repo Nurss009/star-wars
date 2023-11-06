@@ -1,0 +1,23 @@
+button {
+    background: black;
+    color: white;
+    border: none;
+    padding: 10px 25px;
+}
+input {
+    padding: 10px 15px;
+}
+body{
+    background-image:url(./assets/star-wars-darth-vader-emperor-palpatine-stormtrooper-wallpaper-preview.jpg) ;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+h2 {
+    color: #fff;
+}
+h4 {
+    color:#fff;
+}
+p {
+    color: #fff;
+}
